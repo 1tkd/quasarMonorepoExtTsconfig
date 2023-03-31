@@ -7,8 +7,8 @@
 
 <script setup lang="ts">
 
-import LIbComp1 from 'lib/components/LibComp.vue'
-import {func1} from  'lib/components/utilcode'
+import LIbComp1 from 'lib/LibComp.vue'
+import {func1} from  'lib/utilcode'
 
 
 </script>

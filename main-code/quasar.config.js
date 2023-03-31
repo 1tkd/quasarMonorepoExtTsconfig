@@ -62,7 +62,7 @@ module.exports = configure(function (/* ctx */) {
       },
 
       alias:{
-        'lib': path.resolve(__dirname, '../lib-code/src')
+        'lib': path.resolve(__dirname, '../lib-code/')
       },
       vueRouterMode: 'hash', // available values: 'hash', 'history'
       // vueRouterBase,
